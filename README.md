@@ -30,3 +30,7 @@ This course provides a comprehensive overview of information security, covering 
 3. [Harvard Courses](https://pll.harvard.edu/subject/cybersecurity).
 4. [Fortinet](https://www.fortinet.com/training/cybersecurity-professionals).
 5. [SENA TIC](https://mintic.gov.co/senatic).
+
+## Archive
+
+6. [Framework for improving critical infraestructure cybersegurity](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf).
